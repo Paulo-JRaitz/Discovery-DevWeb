@@ -17,10 +17,10 @@ Projeto de aprendizado desenvolvido junto a comunidade Rocketseat
 
 ## Índice
 
-- [Preview](#-Preview)
-- [Sobre](#-Sobre)
-- [Tecnologias utilizadas](#-Tecnologias)
-- [Como executar o projeto](#-Como-executar-o-projeto)
+- [Preview](#Preview)
+- [Sobre](#Sobre)
+- [Tecnologias utilizadas](#Tecnologias)
+- [Como executar o projeto](#Como-executar-o-projeto)
 
 ---
 
